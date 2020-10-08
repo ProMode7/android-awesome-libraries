@@ -37,8 +37,8 @@ Name | Demo
 [Hover](https://github.com/google/hover) | <img src="https://raw.githubusercontent.com/matthew-carroll/hover/gh-pages/images/screenrecords/hover-demo-screenrecord.gif" width="49%">
 [FerrisWheel](https://github.com/iglaweb/Ferris-Wheel) | <img src="https://github.com/iglaweb/Ferris-Wheel/blob/master/art/preview_demo.gif" width="49%"> <img src="https://github.com/iglaweb/Ferris-Wheel/blob/master/art/preview_demo_monochrome.gif" width="49%">
 [TagSphereView](https://github.com/magic-goop/tag-sphere) | <img src="https://raw.githubusercontent.com/magic-goop/tag-sphere/master/art/showcase3.gif" width="32%"> <img src="https://raw.githubusercontent.com/magic-goop/tag-sphere/master/art/showcase1.gif" width="32%"> <img src="https://raw.githubusercontent.com/magic-goop/tag-sphere/master/art/showcase2.gif" width="32%">
-[garland-view-android](https://github.com/Ramotion/garland-view-android) | <img src="https://github.com/Ramotion/garland-view-android" width="49%">
-[expanding-collection-android](https://github.com/Ramotion/expanding-collection-android) | <img src="https://github.com/Ramotion/expanding-collection-android" width="49%">
+[garland-view-android](https://github.com/Ramotion/garland-view-android) | <img src="https://github.com/Ramotion/garland-view-android/raw/master/preview.gif" width="49%">
+[expanding-collection-android](https://github.com/Ramotion/expanding-collection-android) | <img src="https://github.com/Ramotion/expanding-collection-android/raw/master/preview.gif" width="49%">
 [cardslider-android](https://github.com/Ramotion/cardslider-android) | <img src="https://github.com/Ramotion/cardslider-android/raw/master/preview.gif" width="49%">
 [direct-select-android](https://github.com/Ramotion/direct-select-android) | <img src="https://github.com/Ramotion/direct-select-android/raw/master/direct_select_preview.gif" width="49%">
 [folding-cell-android](https://github.com/Ramotion/folding-cell-android) | <img src="https://github.com/Ramotion/folding-cell-android/raw/master/folding_cell_preview.gif" width="49%">
@@ -48,7 +48,7 @@ Name | Demo
 [android-pdfview](https://github.com/JoanZapata/android-pdfview) | <img src="https://camo.githubusercontent.com/7712406b4e86c0260f6fd35ed4a1fb77a73a29ce/68747470733a2f2f7261772e6769746875622e636f6d2f4a6f616e5a61706174612f616e64726f69642d706466766965772f6d61737465722f6465766963652e706e67" width="49%">
 [DrawableView](https://github.com/PaNaVTEC/DrawableView) | <img src="https://github.com/PaNaVTEC/DrawableView/raw/master/art/DrawableView.gif" width="49%">
 [voice-recording-visualizer](https://github.com/tyorikan/voice-recording-visualizer) | <img src="https://camo.githubusercontent.com/dec65b58525ce17eff5e0318d3c39ae33760284a/687474703a2f2f696d672e796f75747562652e636f6d2f76692f664a546c31626751336a342f302e6a7067" width="49%">
-[EasyFonts](https://github.com/vsvankhede/easyfonts) | <img src="https://github.com/vsvankhede/easyfonts/raw/master/images/fontface_list.png" width="49%>
+[EasyFonts](https://github.com/vsvankhede/easyfonts) | <img src="https://github.com/vsvankhede/easyfonts/raw/master/images/fontface_list.png" width="49%">
 [android-slidingactivity](https://github.com/klinker41/android-slidingactivity) | <img src="https://github.com/klinker41/android-slidingactivity/raw/master/preview.gif" width="32%"> <img src="https://github.com/klinker41/android-slidingactivity/raw/master/preview_inbox_animation.gif" width="32%"> <img src="https://github.com/klinker41/android-slidingactivity/raw/master/preview_peekview.gif" width="32%">
 [snake](https://github.com/txusballesteros/snake) | <img src="https://github.com/txusballesteros/snake/raw/master/assets/demo.gif">
 [Rotatable](https://github.com/yayaa/Rotatable) | <img src="https://camo.githubusercontent.com/1588aa51f2fe10b3b240b32b48087215794d5198/687474703a2f2f796179616e64726f69642e636f6d2f646174612f6769746875625f6c6962726172792f726f74617461626c652f726f74617461626c652e676966" width="49%">
