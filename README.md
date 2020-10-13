@@ -1,5 +1,7 @@
-# android-awesome-libraries
+# Android Awesome Libraries
 A curated list of Android libraries that can be used to ace up the development. This repo contains a list of libraries for android native developement using Java/Kotlin.
+
+# A LOT IS COMING UP EVERY DAY HERE!!! ⭐️ if you like it. Happy Coding 👨🏻‍💻
 
 We're going to add a lot of awesome libraries to this repo very soon. In case we might've missed anything, feel free to create a new issue and add that library link to it and we will review it and add that ASAP.
 
