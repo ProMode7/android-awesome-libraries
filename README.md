@@ -22,4 +22,4 @@ Helper Libraries:
 |--|--|--|
 |[Image Loaders](https://github.com/ProMode7/android-awesome-libraries/blob/main/page/image_loaders.md "image_loaders.md")| [Audio Video Players](https://github.com/ProMode7/android-awesome-libraries/blob/main/page/audio_video_players.md) | [Networking](https://github.com/ProMode7/android-awesome-libraries/blob/main/page/Networking.md)
 |[Database/ORM](https://github.com/ProMode7/android-awesome-libraries/blob/main/page/database_orm.md) | [Runtime Permissions](https://github.com/ProMode7/android-awesome-libraries/blob/main/page/RuntimePermissions.md) | [DebuggingTools](https://github.com/ProMode7/android-awesome-libraries/blob/main/page/DebuggingTools.md)
-[Logger Libs](https://github.com/ProMode7/android-awesome-libraries/blob/main/page/Logger.md)
+[Logger Libs](https://github.com/ProMode7/android-awesome-libraries/blob/main/page/Logger.md) | [Camera](https://github.com/ProMode7/android-awesome-libraries/blob/main/page/camera.md) | 
