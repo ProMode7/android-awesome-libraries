@@ -20,3 +20,8 @@ Database/ORM Libraries
 * [RxSimpleNoSQL](https://github.com/xmartlabs/RxSimpleNoSQL)
 * [SnappyDB](https://github.com/nhachicha/SnappyDB)
 * [Couchbase-Lite-Android](https://github.com/couchbase/couchbase-lite-android)
+* [RushOrm](https://github.com/Stuart-campbell/RushOrm)
+* [Shillelagh](https://github.com/pieces029/shillelagh)
+* [SQLBrite](https://github.com/square/sqlbrite)
+* [Ollie](https://github.com/pardom/Ollie)
+* [TriOrm](https://github.com/HendrixString/Android-TriOrm)
