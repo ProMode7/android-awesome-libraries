@@ -15,3 +15,4 @@ Logger Libraries
 * [StreamingAndroidLogger](https://github.com/kibotu/StreamingAndroidLogger)
 * [ExternalLogger-Android](https://github.com/guy-4444/ExternalLogger-Android)
 * [LoggerPreferences](https://github.com/gurleensethi/LoggerPreferences)
+* [hugo](https://github.com/JakeWharton/hugo)
