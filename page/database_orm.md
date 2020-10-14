@@ -18,3 +18,5 @@ Database/ORM Libraries
 * [NexusData](https://github.com/dkharrat/NexusData)
 * [SimpleNoSQL](https://github.com/Jearil/SimpleNoSQL)
 * [RxSimpleNoSQL](https://github.com/xmartlabs/RxSimpleNoSQL)
+* [SnappyDB](https://github.com/nhachicha/SnappyDB)
+* [Couchbase-Lite-Android](https://github.com/couchbase/couchbase-lite-android)
