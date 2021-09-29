@@ -3,7 +3,7 @@ A curated list of Android libraries that can be used to ace up the development. 
 
 # A LOT IS COMING UP EVERY DAY HERE!!! ⭐️ if you like it. Happy Coding 👨🏻‍💻
 
-We're going to add a lot of awesome libraries to this repo very soon. In case we might've missed anything, feel free to create a new issue and add that library link to it and we will review it and add that ASAP.
+We're going to add a lot of awesome libraries to this repo very soon. In case we might've missed anything, feel free to create a new issue and add that library link to it and we will review it and add that ASAP. Also If you wish to send us some liraries, feel free to send a PR.
 
 Highly inspired from [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 
