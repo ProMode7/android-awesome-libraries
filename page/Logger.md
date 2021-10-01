@@ -16,3 +16,5 @@ Logger Libraries
 * [ExternalLogger-Android](https://github.com/guy-4444/ExternalLogger-Android)
 * [LoggerPreferences](https://github.com/gurleensethi/LoggerPreferences)
 * [hugo](https://github.com/JakeWharton/hugo)
+* [logcat](https://github.com/square/logcat)
+* [Napier](https://github.com/AAkira/Napier)
