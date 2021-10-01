@@ -11,3 +11,6 @@ Debuggins Tools
 * [Lynx](https://github.com/pedrovgs/Lynx)
 * [adb-enhanced](https://github.com/ashishb/adb-enhanced)
 * [App Spector](https://appspector.com)
+* [chucker](https://github.com/ChuckerTeam/chucker)
+* [pandora](https://github.com/whataa/pandora)
+* [AndroidSnooper](https://github.com/jainsahab/AndroidSnooper)
