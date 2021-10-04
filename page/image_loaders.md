@@ -7,3 +7,5 @@ Image loaders
 * [Fresco](https://github.com/facebook/fresco)
 * [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 * [GlideBitmapPool](https://github.com/amitshekhariitbhu/GlideBitmapPool)
+* [Slight](https://github.com/tortuvshin/slight)
+* [Mirage](https://github.com/TheClimateCorporation/mirage)
