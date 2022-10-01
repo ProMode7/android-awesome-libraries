@@ -7,6 +7,13 @@ We're going to add a lot of awesome libraries to this repo very soon. In case we
 
 Highly inspired from [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 
+Dependency Injection (DI): 
+======================
+|  |  | |
+|--|--|--|
+| [Dagger](https://dagger.dev/dev-guide/android.html) | [Hilt](https://developer.android.com/training/dependency-injection/hilt-android) | [Avnil](https://github.com/square/anvil) |
+| [Koin](https://insert-koin.io/) | [Kodein](https://github.com/kosi-libs/Kodein) | [Toothpick](https://github.com/stephanenicolas/toothpick)
+
 UI/UX Libraries: 
 ======================
 |  |  | |
