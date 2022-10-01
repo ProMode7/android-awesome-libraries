@@ -7,7 +7,7 @@ We're going to add a lot of awesome libraries to this repo very soon. In case we
 
 Highly inspired from [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 
-Depedency Injection (DI): 
+Dependency Injection (DI): 
 ======================
 |  |  | |
 |--|--|--|
