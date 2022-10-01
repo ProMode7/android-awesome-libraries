@@ -2,6 +2,8 @@ Libraries for Navigation/Menu
 ======================
 Name | Demo
 --- | ---
+[CircleMenu](https://github.com/ImangazalievM/CircleMenu) | <img src="https://raw.githubusercontent.com/ImangazalievM/CircleMenu/master/art/preview_simple.gif" width="32%"><img src="https://raw.githubusercontent.com/ImangazalievM/CircleMenu/master/art/preview_bottom_bar.gif" width="32%"><img src="https://raw.githubusercontent.com/ImangazalievM/CircleMenu/master/art/preview_fab.gif" width="32%">
+[CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu) | <img src="https://github.com/oguzbilgener/CircularFloatingActionMenu/raw/master/assets/circularfab.gif">
 [navigation-toolbar-android](https://github.com/Ramotion/navigation-toolbar-android) | <img src="https://github.com/Ramotion/navigation-toolbar-android/raw/master/Navigation-toolbar.gif">
 [CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu) | <img src="https://github.com/oguzbilgener/CircularFloatingActionMenu/raw/master/assets/circularfab.gif">
 [AndroidResideMenu](https://github.com/SpecialCyCi/AndroidResideMenu) | <img src="https://github.com/SpecialCyCi/AndroidResideMenu/raw/master/2.gif" width="49%">
